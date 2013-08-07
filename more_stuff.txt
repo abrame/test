@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i like eggs
+=======
+i like bacon
+>>>>>>> mynewbranch
